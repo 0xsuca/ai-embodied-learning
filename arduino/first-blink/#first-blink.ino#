@@ -1,4 +1,4 @@
-int red = 8;
+z`int red = 8;
 int blue = 4;
 int redTime = 1000;
 int redTimeD = 1000;
